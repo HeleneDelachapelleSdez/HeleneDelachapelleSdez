@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HeleneDelachapelleSdez
 - 👀 I’m interested in front end, animations, creative coding
-- 🌱 I’m currently learning javascript always, node, vue
 - 📫 How to reach me on linkedin at Helene Delachapelle
 
 <!---
